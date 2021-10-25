@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<rdf xmlns:rdf="http://www.w3.org/#" xmlns:si="https://www.w3schools.com/rdf">
+<openarchives/>
+<script xmlns="http://www.w3.org/1999/xhtml">alert(document.domain)</script>
+</rdf>
